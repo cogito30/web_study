@@ -8,7 +8,7 @@
 - 추천강의: [CSS 레이아웃](https://www.youtube.com/playlist?list=PLFeNz2ojQZjso4ZJVeeMWR72l8s9V8Ym9)
 2) UI 개발
 - 추천강의: [boostcourse(웹 UI 개발)](https://www.boostcourse.org/web344)
-3) JavaScript 학습
+3) JavaScript 학습
 - 추천교재: [Modern JavaScript](https://ko.javascript.info/)
 - 추천강의: [자바스크립트 기초 강의](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 - 추천교재: [TCP School](https://tcpschool.com/javascript/intro)

@@ -19,7 +19,7 @@
 7) [정보보안기사](https://www.cq.or.kr/main.do)
 
 ## Subject
-- [Plan&&Publish]()
+- [Plan](./00_plan)
 - [FrontEnd](./01_frontend)
 - [BackEnd](./02_backend)
 - [Cloud](./03_cloud)
